@@ -1,0 +1,6 @@
+{
+  "name": "Gen Z 3D Portfolio",
+  "description": "Modern 3D portfolio with vibrant colors and full-stack contact feature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
